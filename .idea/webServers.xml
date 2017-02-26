@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7594832e-dc89-42be-ad70-64de579e1542" name="reestr.cpp.local" url="http://reestr.cpp.local">
+        <fileTransfer host="10.10.4.50" port="22" rootFolder="/var/www/reg" accessType="SFTP" password="dff5dfc8dfcbdfdedf98dfc5dfc5dfdedf8b" username="wwwftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
